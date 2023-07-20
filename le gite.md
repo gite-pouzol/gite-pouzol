@@ -1,7 +1,10 @@
 ---
 title: Le gîte
 ---
-Cette maison sur 3 niveaux comporte 2 chambres (1 lit double / 2 lits simples), une pièce à vivre et des sanitaires (salle de bain, WC), un jardinet avec petit salon de jardin.
-Située en face de notre maison, nous mettons tout en œuvre pour préserver l'intimité de nos hôtes.
+Cette maison sur 3 niveaux comporte : 
+au rez-de-chaussée : des sanitaires (salle de bain, WC) et une buanderie (machine à laver, ménage)
+au premier niveau : une pièce de vie, comportant un coin cuisine, espace repas et salon prés d'une cheminée traditionnelle ("cantou"). Vous disposez d'un écran avec lecteur de DVD.
+au second niveau : une chambre mezzanine avec un lit 2 places, et une chambre avec deux lits 1 place. Nous avons la possibilité de vous mettre à disposition sur demande un lit parapluie pour bébé.
+A l'extérieur, un jardinet avec petit salon de jardin vous permettra de manger à l'extérieur.
 
-Vous apprécierez la fraicheur de la maison et les promenades dans les bois, accessibles au pied de la maison.
+Équipements disponibles : machine à laver, aspirateur, cafetière, gazinière (four et feux), four micro-onde, cafetière, bouilloire.
