@@ -12,3 +12,5 @@ Ce gîte comporte une pièce de vie, 2 chambres, une salle de bain avec baignoir
 Notre maison est située en face : nous pourrons vous accueillir et vous renseigner selon vos besoins, tout en veillant à préserver votre intimité.
 
 Un petit coin de nature pour passer des vacances réussies !
+
+Gîte loué d'avril à septembre.
