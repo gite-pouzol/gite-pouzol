@@ -1,7 +1,7 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+Pour toute demande d'information ou pour réserver, vous pouvez nous contacter par mail nic.duteil19@gmail.com.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+
 `
