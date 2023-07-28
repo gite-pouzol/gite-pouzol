@@ -2,6 +2,8 @@
 title: "Informations et réservations"
 order: 4
 ---
+![expo vaches](/images/vache 3.png)
+
 Pour toute demande d'information ou pour réserver, vous pouvez nous contacter par mail : nic.duteil19@gmail.com.
 
 Tarifs : 65 euros / nuit 
