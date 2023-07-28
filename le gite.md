@@ -1,5 +1,6 @@
 ---
 title: "Le gîte"
+order: 2
 ---
 Cette maison sur 3 niveaux comporte : 
 - au rez-de-chaussée : des sanitaires (salle de bain, WC) et une buanderie (machine à laver, ménage). Serviettes et gants fournis.
