@@ -19,7 +19,4 @@ A l'extérieur, un jardinet avec petit salon de jardin vous permettra de manger 
 
 Équipements disponibles : machine à laver, aspirateur, cafetière, gazinière (four et feux), four micro-onde, cafetière, bouilloire.
 
-Ménage réalisé par les locataires avant leur départ.
-
-TARIFS : 74 euros / nuit
-Pour un minimum de 3 nuits. 
+Ménage réalisé par les locataires avant leur départ. 
