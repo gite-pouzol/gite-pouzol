@@ -1,5 +1,6 @@
 ---
 title: "Accueil"
+order: 1
 ---
 ![Paysage corrèze](/images/paysage.jpg)
 
