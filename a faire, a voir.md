@@ -16,7 +16,7 @@ Au gré de vos envies et centres d’intérêts vous pourrez trouver des informa
 - Descente de la Dordogne en Canoë Kayak avec Escapade Nature Pays d'Argentat - 15 min.
 - Expéditions aquatiques accompagnées avec [Dordogne Outdoor](https://www.dordogne-outdoor.com/) - Argentat - 15 min.
 - Cascades de Murel (Albussac) - 29 min.
-- Accrobranches, balade en Poney, parcours dans la nature, exposition en plein air de vaches « artistiques », à la Ferme de la Bitarelle (Camps) - 29 min.
+- Accrobranches, balade en Poney, parcours dans la nature, exposition en plein air "Finc art & Co" (vaches peintes) , à la Ferme de la Bitarelle (Camps) - 29 min.
 - Sentiers des Gorges de la Cère (depuis Camps - Saint Mathurin) : à découvrir [ICI](https://www.lesgorgesdelacere.fr/) - 30 min.
 
 
