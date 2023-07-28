@@ -2,11 +2,11 @@
 title: "A faire, à voir..."
 ---
 # Nos coups de cœur : 
-## … En famille : 
-- accrobranches, balade en Poney, parcours dans la nature, exposition en plein air de vaches « artistiques », à la Ferme de la Bitarelle (Camps). Vous pourrez vous restaurer non loin de là, à La Vache qui Fume (La Chapelle Saint Géraud)
 
-- La visite du site médiévale Les Tours de Merle (Saint-Geniez ô Merle)
-
+## A visiter :
+- Le site médiévale Les Tours de Merle (Saint-Geniez ô Merle)
+- Les pans de Travasac
+- Collonges-la-Rouge
 
 
 ## Baignades et escapades en nature : 
@@ -16,8 +16,16 @@ title: "A faire, à voir..."
 - Cascades de Murel
 - Descente de la Dordogne en Canoë Kayak
 - Expéditions aquatiques accompagnées avec Dordogne Outdoor (https://www.dordogne-outdoor.com/)
+- Accrobranches, balade en Poney, parcours dans la nature, exposition en plein air de vaches « artistiques », à la Ferme de la Bitarelle (Camps). 
 
-## Pour les pêcheurs
+![Tourisme](/images/A visiter.jpg)
+
+## Se restaurer :
+- Le Doustre (Saint-Bazile de la Roche)
+- Marché de Pays festif de Monceaux sur Dordogne (tous les jeudis sur les vacances estivales)
+- La Vache qui Fume (La Chapelle Saint-Géraud)
+
+## Pour les pêcheurs :
 La Dordogne, la Maronne, le Doustre… ou sur des plans d’eau, le choix ne manque pas pour les amateurs de pêche.
 Vous pouvez prendre votre carte de pêche auprès du magasin Argentat Passion ou en ligne [ICI](https://www.cartedepeche.fr/).
 Vous pourrez trouver des informations utiles sur le [site de la Fédération de pêche de Corrèze](https://www.peche19.fr/).
