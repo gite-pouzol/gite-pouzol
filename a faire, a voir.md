@@ -19,6 +19,7 @@ Au gré de vos envies et centres d’intérêts vous pourrez trouver des informa
 - Accrobranches, balade en Poney, parcours dans la nature, exposition en plein air "Finc art & Co" (vaches peintes) , à la Ferme de la Bitarelle (Camps) - 29 min.
 - Sentiers des Gorges de la Cère (depuis Camps - Saint Mathurin) : à découvrir [ICI](https://www.lesgorgesdelacere.fr/) - 30 min.
 
+![Tourisme](/images/A visiter.jpg) 
 
 ## A visiter :
 - Argentat et ses quais - 15 min.
@@ -27,7 +28,6 @@ Au gré de vos envies et centres d’intérêts vous pourrez trouver des informa
 - Le site médiévale Les Tours de Merle (Saint-Geniez ô Merle) - 45 min.
 - Collonges-la-Rouge - 58 min.
 - Les pans de Travasac (Donzenac) - 55 min.
-
 
 ## Pour les pêcheurs :
 La Dordogne, la Maronne, le Doustre… ou sur des plans d’eau, le choix ne manque pas pour les amateurs de pêche.
@@ -41,4 +41,4 @@ Vous pourrez trouver des informations utiles sur le [site de la Fédération de 
 
 De nombreux restaurants vous accueillent sur Argentat pour tous les goûts et toutes les bourses...
 
-![Tourisme](/images/A visiter.jpg) 
+![Vaches limousines](/images/vaches2.jpg) 
