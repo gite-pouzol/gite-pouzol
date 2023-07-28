@@ -6,4 +6,4 @@ Pour toute demande d'information ou pour réserver, vous pouvez nous contacter p
 Tarifs : 65 euros / nuit 
 Pour un minimum de 3 nuits
 
-![Emplacement du gîte](/images/carte gîte.png) 
+![Emplacement du gîte](/images/plan new.png) 
