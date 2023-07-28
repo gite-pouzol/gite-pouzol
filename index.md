@@ -1,7 +1,12 @@
 ---
-title: Accueil
+title: "Accueil"
 ---
+![Paysage corrèze](/images/paysage.jpg)
+
+
 # Gîte de Pouzol
+
+
 
 Cette maison en pierres typiquement corrézienne vous offre la possibilité d'un séjour au calme, dans un petit lieu-dit entouré par la nature. 
 
@@ -13,4 +18,4 @@ Notre maison est située en face : nous pourrons vous accueillir et vous renseig
 
 Un petit coin de nature pour passer des vacances réussies !
 
-Gîte loué d'avril à septembre.
+Gîte loué d'avril à septembre. 
