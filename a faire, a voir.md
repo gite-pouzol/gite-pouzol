@@ -1,6 +1,8 @@
 ---
 title: "A faire, à voir..."
 ---
+![Paysage](/images/Brume.jpg)
+
 Au gré de vos envies et centres d’intérêts vous pourrez trouver des informations sur les sites des offices de tourisme de la [Vallée de la Dordogne](https://www.vallee-dordogne.com/offres/office-de-tourisme-vallee-de-la-dordogne-bureau-daccueil-dargentat-sur-dordogne-argentat-fr-1528434) et de [Tulle](https://www.tulle-en-correze.com/). Nous pourrons aussi vous conseiller tout prés du gîte ou en vous éloignant des chemins de promenades et de randonnées.
 
 # Nos coups de cœur : 
