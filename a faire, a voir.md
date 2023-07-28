@@ -1,6 +1,8 @@
 ---
 title: "A faire, à voir..."
 ---
+Au gré de vos envies et centres d’intérêts vous pourrez trouver des informations sur les sites des offices de tourisme de la [Vallée de la Dordogne](https://www.vallee-dordogne.com/offres/office-de-tourisme-vallee-de-la-dordogne-bureau-daccueil-dargentat-sur-dordogne-argentat-fr-1528434) et de [Tulle](https://www.tulle-en-correze.com/). Nous pourrons aussi vous conseiller tout prés du gîte ou en vous éloignant des chemins de promenades et de randonnées.
+
 # Nos coups de cœur : 
 
 ## Baignades et escapades en nature : 
@@ -24,8 +26,6 @@ title: "A faire, à voir..."
 - Les pans de Travasac (Donzenac) - 55 min.
 
 
-![Tourisme](/images/A visiter.jpg)
-
 ## Pour les pêcheurs :
 La Dordogne, la Maronne, le Doustre… ou sur des plans d’eau, le choix ne manque pas pour les amateurs de pêche.
 Vous pouvez prendre votre carte de pêche auprès du magasin Argentat Passion ou en ligne [ICI](https://www.cartedepeche.fr/).
@@ -37,5 +37,4 @@ Vous pourrez trouver des informations utiles sur le [site de la Fédération de 
 - La Vache qui Fume (La Chapelle Saint-Géraud)
 De nombreux restaurants vous accueillent sur Argentat pour tous les goûts et toutes les bourses...
 
-
-Au gré de vos envies et centres d’intérêts vous pourrez trouver des informations sur les sites des offices de tourisme de la Vallée de la Dordogne (https://www.vallee-dordogne.com/offres/office-de-tourisme-vallee-de-la-dordogne-bureau-daccueil-dargentat-sur-dordogne-argentat-fr-1528434) et de Tulle (https://www.tulle-en-correze.com/). 
+![Tourisme](/images/A visiter.jpg) 
