@@ -11,6 +11,7 @@ Cette maison sur 3 niveaux comporte :
 ![Pièce de vie](/images/Pièce à vivre.jpg)
 
 - au second niveau : une chambre mezzanine avec un lit 2 places, puis une chambre avec deux lits 1 place. Les draps sont fournis.
+
 _Nous avons la possibilité de vous mettre à disposition sur demande un lit parapluie pour bébé._
 
 ![Les chambres](/images/chambres.png)
