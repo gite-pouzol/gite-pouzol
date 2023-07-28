@@ -1,5 +1,6 @@
 ---
 title: "A faire, à voir..."
+order: 1
 ---
 ![Paysage](/images/Brume.jpg)
 
@@ -37,6 +38,7 @@ Vous pourrez trouver des informations utiles sur le [site de la Fédération de 
 - Le Doustre (Saint-Bazile de la Roche)
 - Marché de Pays festif de Monceaux sur Dordogne (tous les jeudis sur les vacances estivales)
 - La Vache qui Fume (La Chapelle Saint-Géraud)
+
 De nombreux restaurants vous accueillent sur Argentat pour tous les goûts et toutes les bourses...
 
 ![Tourisme](/images/A visiter.jpg) 
