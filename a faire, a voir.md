@@ -35,9 +35,9 @@ Vous pouvez prendre votre carte de pêche auprès du magasin Argentat Passion ou
 Vous pourrez trouver des informations utiles sur le [site de la Fédération de pêche de Corrèze](https://www.peche19.fr/).
 
 ## Se restaurer :
-- Le Doustre (Saint-Bazile de la Roche)
-- Marché de Pays festif de Monceaux sur Dordogne (tous les jeudis sur les vacances estivales)
-- La Vache qui Fume (La Chapelle Saint-Géraud)
+- Le Doustre (Saint-Bazile de la Roche) - 5 min.
+- Marché de Pays festif de Monceaux sur Dordogne (tous les jeudis sur les vacances estivales) - 20 min.
+- La Vache qui Fume (La Chapelle Saint-Géraud) - 25 min.
 
 De nombreux restaurants vous accueillent sur Argentat pour tous les goûts et toutes les bourses...
 
