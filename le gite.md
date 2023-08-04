@@ -13,7 +13,7 @@ Cette maison sur 3 niveaux comporte :
 
 - au second niveau : une chambre mezzanine avec un lit 2 places, puis une chambre avec deux lits 1 place. 
 
-_Nous avons la possibilité de vous mettre à disposition sur demande un lit parapluie pour bébé._
+_Nous avons la possibilité de vous mettre à disposition sur demande un lit parapluie pour bébé, une chaise-haute et une baignoire pour bébé._
 
 ![Les chambres](/images/chambres.png)
 
