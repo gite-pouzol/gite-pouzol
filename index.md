@@ -21,4 +21,4 @@ Notre maison est située en face : nous pourrons vous accueillir et vous renseig
 
 Un petit coin de nature pour passer des vacances réussies !
 
-Gîte loué d'avril à septembre. 
+Gîte disponible à la location d'avril à septembre. 
