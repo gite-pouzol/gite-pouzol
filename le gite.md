@@ -19,11 +19,11 @@ _Nous avons la possibilité de vous mettre à disposition sur demande un lit par
 
 A l'extérieur, un jardinet avec petit salon de jardin vous permettra de manger à l'extérieur.
 
-Équipements disponibles : fibre accessible en wifi
+Équipements disponibles : fibre accessible en wifi, 
 machine à laver, aspirateur, cafetière, gazinière (four et feux), four micro-onde, cafetière, bouilloire.
 
 Linge de maison fourni (draps, serviettes).
 
-Animaux non admis
+Animaux non admis.
 
 Ménage réalisé par les locataires avant leur départ. 
