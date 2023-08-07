@@ -2,7 +2,7 @@
 title: "Informations et réservations"
 order: 4
 ---
-![Exposition vaches](/images/vaches 5.jpg)
+![Vaches limousines](/images/vaches2.jpg)
 
 Pour toute demande d'information ou pour réserver, vous pouvez nous contacter par mail : nic.duteil19@gmail.com.
 
