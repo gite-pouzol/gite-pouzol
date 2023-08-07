@@ -41,4 +41,4 @@ Vous pourrez trouver des informations utiles sur le [site de la Fédération de 
 
 De nombreux restaurants vous accueillent sur Argentat pour tous les goûts et toutes les bourses...
 
-![Vaches limousines](/images/vaches2.jpg) 
+![Exposition vaches](/images/vaches 5.jpg) 
